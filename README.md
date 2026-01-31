@@ -49,6 +49,12 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Atif-Azmi" alt="visitor badge"/>
+</p>
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Atif-Azmi&icon=0&color=0)](https://visitcount.itsvg.in)
 
