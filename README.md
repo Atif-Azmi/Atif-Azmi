@@ -1,8 +1,12 @@
 
 
 ## 👋 Hi there
+
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=39FF14&center=true&vCenter=true&width=650&lines=....+WELCOME+TO+MY+GITHUB+....;CP+ENTHUSIAST;LIVE...+CODE...+DIE...)
 
+</div>
 
 
 <!--
