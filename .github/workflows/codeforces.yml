@@ -1,0 +1,24 @@
+name: Update Codeforces Problems
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch Codeforces Data
+        run: |
+          curl "https://codeforces.com/api/user.status?handle=AtifAzmii" -o data.json
+          echo "# 🏆 Codeforces Solved Problems" > solved.md
+          jq -r '.result[] | select(.verdict=="OK") | "- \(.problem.contestId)\(\.problem.index) - \(.problem.name)"' data.json | sort -u >> solved.md
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add solved.md
+          git commit -m "Update solved problems" || echo "No changes"
+          git push
