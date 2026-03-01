@@ -8,13 +8,23 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
       - name: Fetch Codeforces Data
         run: |
-          curl "https://codeforces.com/api/user.status?handle=AtifAzmii" -o data.json
+          curl -s "https://codeforces.com/api/user.status?handle=AtifAzmii" -o data.json
+          
           echo "# 🏆 Codeforces Solved Problems" > solved.md
-          jq -r '.result[] | select(.verdict=="OK") | "- \(.problem.contestId)\(\.problem.index) - \(.problem.name)"' data.json | sort -u >> solved.md
+          echo "" >> solved.md
+          
+          jq -r '.result[] | select(.verdict=="OK") | "- https://codeforces.com/problemset/problem/\(.problem.contestId)/\(.problem.index) - \(.problem.name)"' data.json | sort -u >> solved.md
+
       - name: Commit changes
         run: |
           git config user.name "github-actions"
