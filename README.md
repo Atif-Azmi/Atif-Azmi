@@ -30,29 +30,23 @@ Here are some ideas to get you started:
 # My Contributions
 ![Snake animation](https://raw.githubusercontent.com/Atif-Azmi/Atif-Azmi/output/snake.svg)
 
-## 🏆 Codeforces Solved Problems
+## 🏆 Codeforces Stats
 
-See full list here 👇  
-[Click to View All Solved Problems](./solved.md)
+<img src="https://cf-stats.vercel.app/api?username=AtifAzmii" />
 
-
-### 🔹 Codeforces Rating Badge
-![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=rating&url=https://codeforces.com/api/user.info?handles=AtifAzmii)
-
----
-
-### 🔹 Codeforces Profile Link
-[Visit My Codeforces Profile](https://codeforces.com/profile/AtifAzmii)
-
----
+<br>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atif-Azmi&show_icons=true&theme=dark)
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Atif-Azmi&show_icons=true&theme=dark" />
+
+<br>
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Atif-Azmi&theme=dark)
+
+<img src="https://streak-stats.demolab.com?user=Atif-Azmi&theme=dark" />
+
+</div>
 
 
 ## 🌐 Socials:
