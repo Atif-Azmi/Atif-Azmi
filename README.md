@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 # My Contributions
 ![Snake animation](https://raw.githubusercontent.com/Atif-Azmi/Atif-Azmi/output/snake.svg)
 
-### 🏆 Codeforces Stats
+## 🏆 Codeforces Solved Problems
 
-![Codeforces Stats](https://cf-stats.vercel.app/api?username=AtifAzmii)
+See full list here 👇  
+[Click to View All Solved Problems](./solved.md)
 
 
 ### 🔹 Codeforces Rating Badge
