@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 # My Contributions
 ![Snake animation](https://raw.githubusercontent.com/Atif-Azmi/Atif-Azmi/output/snake.svg)
 
-### 🔹 Codeforces Stats
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AtifAzmii&theme=dark)](https://codeforces.com/profile/AtifAzmii)
+### 🏆 Codeforces Stats
 
----
+![Codeforces Stats](https://cf-stats.vercel.app/api?username=AtifAzmii)
+
+[Visit My Codeforces Profile](https://codeforces.com/profile/AtifAzmii)
 
 ### 🔹 Codeforces Rating Badge
 ![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=rating&url=https://codeforces.com/api/user.info?handles=AtifAzmii)
