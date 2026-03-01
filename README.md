@@ -30,24 +30,26 @@ Here are some ideas to get you started:
 # My Contributions
 ![Snake animation](https://raw.githubusercontent.com/Atif-Azmi/Atif-Azmi/output/snake.svg)
 
-## 🏆 Codeforces Stats
+<div align="center">
 
-<img src="https://cf-stats.vercel.app/api?username=AtifAzmii" />
+### 🔹 Codeforces Stats
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AtifAzmii&theme=dark)](https://codeforces.com/profile/AtifAzmii)
 
-<br>
 
-## 📊 GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atif-Azmi&show_icons=true&theme=dark" />
+### 🔹 Codeforces Profile Link
+ [Visit My Codeforces Profile](https://codeforces.com/profile/AtifAzmii)
 
-<br>
+---
+
+
+
 
 ## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=Atif-Azmi&theme=dark" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Atif-Azmi&theme=dark)
 
 </div>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atif-azmi-85102a338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atifazmi071005@gmail.com) 
