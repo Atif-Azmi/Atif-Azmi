@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 ![Codeforces Stats](https://cf-stats.vercel.app/api?username=AtifAzmii)
 
-[Visit My Codeforces Profile](https://codeforces.com/profile/AtifAzmii)
 
 ### 🔹 Codeforces Rating Badge
 ![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=rating&url=https://codeforces.com/api/user.info?handles=AtifAzmii)
