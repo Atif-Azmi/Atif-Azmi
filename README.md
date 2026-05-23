@@ -1,8 +1,11 @@
-
+ 
 
 ## 👋 Hi there
 
 <div align="center">
+<td>
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer GIF" width="300"/>
+    </td>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=39FF14&center=true&vCenter=true&width=650&lines=....+WELCOME+TO+MY+GITHUB+....;CP+ENTHUSIAST;LIVE...+CODE...+DIE...)
 
