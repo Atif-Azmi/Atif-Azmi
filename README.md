@@ -1,5 +1,5 @@
  
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter:drop-shadow(0 0 8px #39ff14) drop-shadow(0 0 18px #ff7a00) saturate(2) brightness(1.2);" />
 ## 👋 Hi there
 
 <div align="center">
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 # My Contributions
 ![Snake animation](https://raw.githubusercontent.com/Atif-Azmi/Atif-Azmi/output/snake.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter:drop-shadow(0 0 8px #39ff14) drop-shadow(0 0 18px #ff7a00) saturate(2) brightness(1.2);" />
 
 ## 📊 GitHub Activity Graph
 <p align="center">
@@ -74,4 +76,5 @@ Here are some ideas to get you started:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter:drop-shadow(0 0 8px #39ff14) drop-shadow(0 0 18px #ff7a00) saturate(2) brightness(1.2);" />
 
