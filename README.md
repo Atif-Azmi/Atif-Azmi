@@ -50,9 +50,12 @@ Here are some ideas to get you started:
 
 
 
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Atif-Azmi&theme=dark)
+
+![](https://github-readme-stats.shion.dev/api?username=Atif-Azmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Atif-Azmi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 </div>
 
