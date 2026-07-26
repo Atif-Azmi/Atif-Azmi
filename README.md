@@ -1,4 +1,4 @@
- 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter:drop-shadow(0 0 8px #39ff14) drop-shadow(0 0 18px #ff7a00) saturate(2) brightness(1.2);" />
 👋 Hi there
 
@@ -43,6 +43,28 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter:drop-shadow(0 0 8px #39ff14) drop-shadow(0 0 18px #ff7a00) saturate(2) brightness(1.2);" />
 
+## 🌐 Connect with Me:
+
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://atif-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/atif-azmi-85102a338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/atif._.azmi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:atifazmi071005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 ## 📊 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atif-Azmi&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff" width="100%" />
@@ -62,6 +84,24 @@ Here are some ideas to get you started:
 
 
 </div>
+
+
+ ### 📊 Coding Profiles & Stats
+
+<p align="center">
+  <!-- LeetCode Card with Heatmap/Stats -->
+  <img src="https://leetcard.jacoblin.cool/AtifAzmiii?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
+</p>
+<p align="center">
+
+
+<p align="center">
+  <!-- Codeforces Profile Link Badge -->
+  <a href="https://codeforces.com/profile/AtifAzmii">
+    <img src="https://img.shields.io/badge/Codeforces-AtifAzmii-blue?style=for-the-badge&logo=codeforces&logoColor=fff" alt="Codeforces Profile" />
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atif-azmi-85102a338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atifazmi071005@gmail.com) 
