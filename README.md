@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Atif-Azmi" alt="visitor badge"/>
 </p>
+
 # 💫 About Me:
 ⚪ Beginner in Competitive Programming (newbie)<br>⚪ Proficient in C & Python<br>⚪ I Love making backend brains to frontend beauty (MERN)<br>⚪ Interested in Generative AI & Machine Learning<br>⚪ Tech Enthusiast & Problem Solver
 
